@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zequnye.github.io/sitemap.xml
